@@ -91,21 +91,21 @@ color: white;}
     box-shadow: #111823  2px  2px 2px 3px ;
 }
 .imagen{
-    background-image: url('/Imagenes/Bind.jpg');
+    background-image: url(.'/Imagenes/Bind.jpg');
     background-size: cover;
     height: 100px;
     margin-bottom: 15px;
     border-radius: 15px 15px;    
 }
 .imagen2{
-    background-image: url('/Imagenes/Haven.jpg');
+    background-image: url(.'/Imagenes/Haven.jpg');
     background-size: cover;
     height: 100px;
     margin-bottom: 15px;
     border-radius: 15px 15px;    
 }
 .imagen3{
-    background-image: url('/Imagenes/split.jpg');
+    background-image: url(.'/Imagenes/split.jpg');
     background-size: cover;
     height: 100px;
     margin-bottom: 15px;
@@ -141,19 +141,19 @@ padding: -3rem;
     box-shadow: #111823  2px  2px 2px 3px ;
 } 
 .img{
-    background-image: url('/Imagenes/Brezze.jpg');
+    background-image: url(.'/Imagenes/Brezze.jpg');
     background-size: cover;
     height: 100px;
     margin-bottom: 15px;
     border-radius: 15px 15px}
     .img2{
-        background-image: url('/Imagenes/Ascent.jpg');
+        background-image: url(.'/Imagenes/Ascent.jpg');
         background-size: cover;
         height: 100px;
         margin-bottom: 15px;
         border-radius: 15px 15px}
         .img3{
-            background-image: url('/Imagenes/Icebox.webp');
+            background-image: url(.'/Imagenes/Icebox.webp');
             background-size: cover;
             height: 100px;
             margin-bottom: 15px;
